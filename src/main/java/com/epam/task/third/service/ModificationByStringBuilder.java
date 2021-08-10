@@ -1,6 +1,5 @@
 package com.epam.task.third.service;
 
-
 import org.apache.log4j.Logger;
 
 // using StringBuilder methods and without regex-s
